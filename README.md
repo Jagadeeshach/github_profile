@@ -36,7 +36,7 @@
   <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="37" alt="amazonwebservices logo"  />
   <img width="7" />
-  <a href="https://youtube.com/@JCodeUniverse?si=163XHTpKCGH6a9GI" ><img href="https://youtube.com/@JCodeUniverse?si=163XHTpKCGH6a9GI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="37" alt="jquery logo"  /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="37" alt="jquery logo" />
   
 </div>
 
